@@ -1,4 +1,4 @@
 # Known People
 
-- [Luciano](luciano.md)
-- [Vasco Cabrita](vcabrita.md)
+- [Luciano (INTJ)](luciano.md)
+- [Vasco Cabrita (INFJ)](vcabrita.md)
