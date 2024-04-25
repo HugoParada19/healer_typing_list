@@ -83,7 +83,7 @@ __Descriptions__
 
 > Dreams going to Pripyat (**Abstract/Se-Ni**)<br>
 
-> Doesn't like to be controlled (**Se optimistic**)<br>
+> Doesn't like to be controlled (**Se Pesssimistic**)<br>
 
 ---
 
