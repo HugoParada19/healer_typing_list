@@ -36,4 +36,4 @@ Might not know what he wants (**Concrete**)
 
 # INTJ
 
-![](https://github.com/HugoParada19/healer_typing_list/blob/master/pics/CSJ_INTJ.png?raw=true) <img src="https://github.com/HugoParada19/healer_typing_list/blob/master/pics/CSJ_INTJ.png?raw=true" width="50%" height="50%">
+<img src="https://github.com/HugoParada19/healer_typing_list/blob/master/pics/CSJ_INTJ.png?raw=true" width="50%" height="50%">
