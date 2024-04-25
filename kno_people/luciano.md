@@ -36,4 +36,4 @@ Might not know what he wants (**Concrete**)
 
 # INTJ
 
-![../pics/CSJ_INTJ.png]()
+![](https://github.com/HugoParada19/healer_typing_list/blob/master/pics/CSJ_INTJ.png?raw=true)
