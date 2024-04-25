@@ -8,9 +8,9 @@
 
 ## Typings
 
-- ![known people]()
-- ![famous people](unavailable)
-- ![fictional people](unavailable)
+- ![known people](kno_people)
+- ![famous people](#)
+- ![fictional people](#)
 
 ---
 
