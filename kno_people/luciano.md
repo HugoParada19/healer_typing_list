@@ -34,6 +34,6 @@ Might not know what he wants (**Concrete**)
 
 # __Overall Typing__
 
-# INTJ
+## INTJ
 
 <img src="https://github.com/HugoParada19/healer_typing_list/blob/master/pics/CSJ_INTJ.png?raw=true" width="25%" height="25%">
