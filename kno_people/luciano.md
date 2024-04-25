@@ -36,4 +36,4 @@ Might not know what he wants (**Concrete**)
 
 # INTJ
 
-![](../pics/INTJ.png)
+![](INTJ.png)
