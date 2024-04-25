@@ -8,7 +8,7 @@
 
 ## Typings
 
-- [known people](kno_people)
+- [known people](kno_people/README.md)
 - [famous people](#)
 - [fictional people](#)
 
