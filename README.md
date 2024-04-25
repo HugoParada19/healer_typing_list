@@ -9,8 +9,8 @@
 ## Typings
 
 - [known people](kno_people/README.md)
-- [famous people(Unavailable)](#)
-- [fictional people(Unavailable)](#)
+- [famous people (Unavailable)](#)
+- [fictional people (Unavailable)](#)
 
 ---
 
